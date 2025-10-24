@@ -1,6 +1,6 @@
 # UDP Server Demo (.NET Core)
 
-A simple and lightweight **UDP Server** built with **.NET 6**, designed to receive datagrams (UDP packets) from clients and optionally send responses back.
+A simple and lightweight **UDP Server** built with **.NET 9**, designed to receive datagrams (UDP packets) from clients and optionally send responses back.
 
 ---
 
